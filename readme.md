@@ -25,7 +25,7 @@ Feel free to edit / manipulate in any way you wish.
 
 ## Demo
 
-Here is a live demo of [D3.js Multi colored area edge](https://rufflet.github.io/d3-interfaceLoads-chart/)
+Here is a live demo of [D3.js Multi colored area edge](https://rufflet.github.io/d3-multiColoredAreaEdges/)
 
 ## Sources
 
